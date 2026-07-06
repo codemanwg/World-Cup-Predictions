@@ -6,10 +6,10 @@
 
 | 模型 | 说明 |
 |------|------|
-| **DS** | DeepSeek 预测 |
-| **Opus** | Claude Opus 预测（07/06 及之前） |
-| **GPT** | GPT 预测（07/07 起接续 Opus） |
-| **Gemini** | Google Gemini 预测 |
+| **DS** | DeepSeek v4 Flash 预测 |
+| **Opus** | Claude Opus 4.8 预测（07/06 及之前） |
+| **GPT** | GPT 5.5 预测（07/07 起接续 Opus） |
+| **Gemini** | Google Gemini 3.1 Pro 预测 |
 
 命中规则：实际 90 分钟比分命中任一列出的预测比分即 ✅。
 
